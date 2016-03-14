@@ -1,0 +1,13 @@
+{
+  "name": "uber-scrape",
+  "version": "0.0.1",
+  "description": "get uber spike rates",
+  "main": "server.js",
+  "author": "patricknowlan",
+  "dependencies": {
+    "express": "latest",
+    "lodash": "^4.6.1",
+    "mongodb": "^2.1.7",
+    "request": "latest"
+  }
+}
